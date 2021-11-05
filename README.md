@@ -24,9 +24,9 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 #### 💻 Open Source
 
 - Serge [contributor](https://github.com/evernote/serge/pulls?q=is%3Apr+author%3Adragosv)
-- Mojito [contributor] (https://github.com/box/mojito/pulls?q=is%3Apr+author%3Adragosv) 
-- Zanata [contributor] (https://github.com/zanata/zanata-platform/pulls?q=is%3Apr+author%3Adragosv)
-- Weblate [contributor] (https://github.com/WeblateOrg/wlc/pulls?q=is%3Apr+author%3Adragosv)
+- Mojito [contributor](https://github.com/box/mojito/pulls?q=is%3Apr+author%3Adragosv) 
+- Zanata [contributor](https://github.com/zanata/zanata-platform/pulls?q=is%3Apr+author%3Adragosv)
+- Weblate [contributor](https://github.com/WeblateOrg/wlc/pulls?q=is%3Apr+author%3Adragosv)
 
 #### 📊 Stats 
 
