@@ -8,13 +8,15 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 
 #### 🔧 Technologies & Tools
 
+![C#](https://img.shields.io/badge/-c%23-%23239120?logo=c-sharp&cacheSeconds=10000)
 ![Go](https://img.shields.io/badge/-Go-black?logo=Go&cacheSeconds=10000)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust&cacheSeconds=10000)
 ![Java](https://img.shields.io/badge/-java-E34A86?logo=java&cacheSeconds=10000)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?logo=Kotlin&cacheSeconds=10000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&cacheSeconds=10000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
 ![React](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)
-![Perl](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)
+![Perl](https://img.shields.io/badge/-Perl-black?logo=perl&cacheSeconds=10000)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&cacheSeconds=10000)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&cacheSeconds=10000)
