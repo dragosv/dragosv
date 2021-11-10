@@ -18,18 +18,18 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
 ![React](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)
 ![Perl](https://img.shields.io/badge/-Perl-black?logo=perl&cacheSeconds=10000)
-![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/-python-3670A0?logo=python&logoColor=ffdd54)
 
-![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-%2300f.svg?logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&cacheSeconds=10000)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&cacheSeconds=10000)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&cacheSeconds=10000)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&cacheSeconds=10000)
-![.Net](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white)
 
 #### 💻 Open Source
 
