@@ -20,7 +20,7 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 ![Perl](https://img.shields.io/badge/-Perl-black?logo=perl&cacheSeconds=10000)
 ![Python](https://img.shields.io/badge/-python-3670A0?logo=python&logoColor=ffdd54)
 
-![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-CC2927?logo=sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
