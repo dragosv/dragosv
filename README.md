@@ -9,7 +9,7 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 #### 🔧 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-c%23-%23239120?logo=c-sharp&cacheSeconds=10000)
-![Ruby](https://img.shields.io/badge/-ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/-ruby-%23CC342D.svg?logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-black?logo=Go&cacheSeconds=10000)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust&cacheSeconds=10000)
 ![Java](https://img.shields.io/badge/-java-E34A86?logo=java&cacheSeconds=10000)
