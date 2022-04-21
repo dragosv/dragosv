@@ -29,6 +29,7 @@ My name is Dragos Varovici and I'm a Polyglot Software Developer from Canada. Yo
 ![MySQL](https://img.shields.io/badge/-mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&cacheSeconds=10000)
+![Azure](https://img.shields.io/badge/-Azure-5C2D91?logo=microsoft-azure&cacheSeconds=10000&logoColor=white)
 
 #### 💻 Open Source
 
