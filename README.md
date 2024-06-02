@@ -34,7 +34,7 @@ My name is Dragos Varovici and I'm a Forward-looking Polyglot Developer 👨‍�
 #### 💻 Open Source
 
 - Serge Plugins [owner](https://github.com/dragosv/serge-plugins)
-- Serge [contributor](https://github.com/evernote/serge/pulls?q=is%3Apr+author%3Adragosv)
+- Serge [maintainer](https://github.com/serge-comunity/serge/pulls?q=is%3Apr+author%3Adragosv)
 - Mojito [contributor](https://github.com/box/mojito/pulls?q=is%3Apr+author%3Adragosv) 
 - Zanata [contributor](https://github.com/zanata/zanata-platform/pulls?q=is%3Apr+author%3Adragosv)
 - Weblate [contributor](https://github.com/WeblateOrg/wlc/pulls?q=is%3Apr+author%3Adragosv)
