@@ -51,4 +51,4 @@ My name is Dragosh Zeepert-Varovici and I'm a Forward-looking Polyglot Developer
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/dragosvarovici/
+[1]: https://www.linkedin.com/in/dragoshzeepertvarovici
