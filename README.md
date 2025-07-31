@@ -2,7 +2,7 @@
 
 [<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>](https://github.com/dragosv)
 
-My name is Dragos Varovici and I'm a Forward-looking Polyglot Developer 👨‍💻 and Cloud Enthusiast ☁️. You can find me on [![LinkedIn][1.2]][1]
+My name is Dragosh Zeepert-Varovici and I'm a Forward-looking Polyglot Developer 👨‍💻 and Cloud Enthusiast ☁️. You can find me on [![LinkedIn][1.2]][1]
 
 [![GitHub followers](https://img.shields.io/github/followers/dragosv?label=Follow&style=social)](https://github.com/dragosv?tab=followers)
 
