@@ -18,6 +18,7 @@ My name is Dragosh Varovici and I'm a Forward-looking Polyglot Developer 👨‍
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust&cacheSeconds=10000)
 ![Python](https://img.shields.io/badge/-python-3670A0?logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?logo=Kotlin&cacheSeconds=10000)
+![Swift](https://img.shields.io/badge/-Swift-black?logo=Swift&cacheSeconds=10000)
 
 ![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white)
@@ -33,6 +34,7 @@ My name is Dragosh Varovici and I'm a Forward-looking Polyglot Developer 👨‍
 
 #### 💻 Open Source
 
+- TestContainers for Swift [owner](https://github.com/dragosv/testcontainers-swift))
 - Serge Plugins [owner](https://github.com/dragosv/serge-plugins)
 - Serge [maintainer](https://github.com/serge-community/serge/pulls?q=is%3Apr+author%3Adragosv)
 - Mojito [contributor](https://github.com/box/mojito/pulls?q=is%3Apr+author%3Adragosv) 
