@@ -34,7 +34,7 @@ My name is Dragosh Varovici and I'm a Forward-looking Polyglot Developer 👨‍
 
 #### 💻 Open Source
 
-- TestContainers for Swift [owner](https://github.com/dragosv/testcontainers-swift))
+- TestContainers for Swift [owner](https://github.com/dragosv/testcontainers-swift)
 - Serge Plugins [owner](https://github.com/dragosv/serge-plugins)
 - Serge [maintainer](https://github.com/serge-community/serge/pulls?q=is%3Apr+author%3Adragosv)
 - Mojito [contributor](https://github.com/box/mojito/pulls?q=is%3Apr+author%3Adragosv) 
